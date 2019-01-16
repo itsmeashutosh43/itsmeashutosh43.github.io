@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 4th year undergraduate student studing at Kathmandu University. For now, I am an Ivy League University aspirant.
 
-### More Information
+### Experience
+IT MEET v8.0 Coordinator, IT MEET , Kathmandu University which is the biggest IT Fest of Nepal.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Interests
+* AI and Machine Learning
+* Image Processing
+* Augmented Reality
+* Competitive Programming
+
+### Currently Working On:
+
+I will organize my projects and update this section in a while.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chapagainashutosh8@gmail.com](mailto:chapagainashutosh8@gmail.com)
