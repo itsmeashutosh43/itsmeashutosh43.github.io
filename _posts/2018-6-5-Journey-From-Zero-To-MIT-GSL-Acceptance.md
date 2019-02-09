@@ -1,4 +1,4 @@
-# Journey From Zero To MIT GSL Acceptance
+
 
 I envied people who were good programmers. I always dreamt of becoming good at programming. I dreamt of being busy doing something productive.
 
