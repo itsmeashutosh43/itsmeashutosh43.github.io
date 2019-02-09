@@ -1,7 +1,4 @@
----
-layout: post
-title: The Facebook Dilemma
----
+
 
 # Facebook Dilemma
 
