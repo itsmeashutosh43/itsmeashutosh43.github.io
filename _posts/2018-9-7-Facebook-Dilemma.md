@@ -1,4 +1,9 @@
-#Facebook Dilemma
+---
+layout: post
+title: The Facebook Dilemma
+---
+
+# Facebook Dilemma
 
 
 **I do not have the taste of great music. I find morning birds annoying. I am 21 and I have been on Facebook for 10 years.** I am obliged to like songs my friends like. I am prone to favour the artists with more followers. I hate the players with more haters for no reason of my own.
