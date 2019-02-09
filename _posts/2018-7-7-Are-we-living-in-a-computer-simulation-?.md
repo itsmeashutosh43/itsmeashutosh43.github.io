@@ -1,7 +1,7 @@
 # Are we living in a computer simulation?
 
 
-![Neo From the Movie Matrix](/images/neo.jpeg "Neo")
+![](/images/neo.jpeg "Neo")
 
 Have you ever wondered that the plot of the movie ‘The Matrix’ might be real? *What if you, me, your girlfriend, everyone are characters of a great computer game? What if our whole universe is a science experiment of some junior high-school student in another universe?*
 
