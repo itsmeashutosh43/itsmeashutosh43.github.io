@@ -4,16 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm a 4th year undergraduate student studing at Kathmandu University. For now, I am an Ivy League University aspirant.
-
-### Experience
-IT MEET v8.0 Coordinator, IT MEET , Kathmandu University which is the biggest IT Fest of Nepal.
-
 ### Interests
-* AI and Machine Learning
-* Image Processing
-* Augmented Reality
-* Competitive Programming
+* Robotics
+* Computer Vision
+* Machine Learning
 
 ### Currently Working On:
 
